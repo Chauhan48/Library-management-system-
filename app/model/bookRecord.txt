@@ -1,0 +1,14 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "My Experience with truth",
+    "bookAuthor": "mahatma gandhi",
+    "available": false
+  },
+  {
+    "bookId": 2,
+    "bookName": "The Secret",
+    "bookAuthor": "robert",
+    "available": true
+  }
+]

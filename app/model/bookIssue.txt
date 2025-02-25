@@ -1,0 +1,9 @@
+[
+  {
+    "studentId": 2,
+    "bookId": 1,
+    "issuedBookId": 3,
+    "issueBookTime": 1740478177812,
+    "returned": true
+  }
+]

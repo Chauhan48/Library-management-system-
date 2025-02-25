@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "email": "john@mail.com",
+    "pass": "$2b$10$RoAW9nQuvskyHY4uMNH2U.mJknp3UqK0UO9V0gU086oyZBU0zQwwy",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Dave",
+    "email": "dave@mail.com",
+    "pass": "$2b$10$qoamM8JFMFmsEGXP3LxaJe3a7dbJIvUqvOFoOy1hL/I06DSoWju0y",
+    "role": "student"
+  },
+  {
+    "id": 3,
+    "name": "ABC",
+    "email": "abc@mail.com",
+    "pass": "$2b$10$4NHXX.gQk.pxjxKxpbrzoOukyp5pcHTqmbrttk4jWeUM/Vf22rNB6",
+    "role": "sub_admin"
+  },
+  {
+    "id": 4,
+    "name": "DEF",
+    "email": "def@mail.com",
+    "pass": "$2b$10$0eyFijca2Vo.GEKOG7GHo.0pyH2Z498sjp5QOxIeeHW3KWiKvSqzS",
+    "role": "sub_admin"
+  },
+  {
+    "id": 5,
+    "name": "XYZ",
+    "email": "xyz@mail.com",
+    "pass": "$2b$10$QgEJNpMD8rvyxo8ODcEKiOm5KwgpONzqgEMNK5OHapDICBHOcXVVm",
+    "role": "staff"
+  },
+  {
+    "id": 7,
+    "name": "AAA",
+    "email": "aaa@mail.com",
+    "pass": "$2b$10$4EoWk7JWSvUUDf8qLJRi3.HYb/VsDDRLDVfhP4pOE4YHz3VSm50hq",
+    "role": "sub_admin",
+    "permission": [
+      "book_record"
+    ]
+  }
+]
